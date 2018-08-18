@@ -1,0 +1,2 @@
+This code is developed for student management portal of IIIT B lms to scrap the homepage.
+It automatically logins into the site and scraps the assignments notifications and send them on the mail to another person.
